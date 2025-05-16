@@ -29,7 +29,7 @@ This project explores and visualizes the spread and impact of COVID-19 in **Keny
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/covid19-data-analysis.git
+git clone https://github.com/Inst3p428/covid19-data-analysis
 ```
 2. Navigate to the project folder and open in Jupyter Notebook or VS Code.
 
